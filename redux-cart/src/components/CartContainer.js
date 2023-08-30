@@ -20,6 +20,7 @@ const CartContainer = ({ cart = [], total, dispatch }) => {
   return (
     <section className="cart">
       {/* cart header */}
+      
       <header>
         <h2>your bag</h2>
       </header>
